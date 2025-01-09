@@ -18,3 +18,5 @@ Student Management System for a Tution Class which consists an admin and a tutor
 Design Patterns:
   singleton db connection class - DBcon.java
   singleton user session managing class-userSession.java
+
+main class - StudentManagementSystem.java
