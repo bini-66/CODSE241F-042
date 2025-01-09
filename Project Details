@@ -8,15 +8,29 @@ Apache NetBeans IDE 23
 <groupId>com.toedter</groupId>
 <artifactId>jcalendar</artifactId>
 <version>1.4</version>
-
+--------------------------------
 SQL credentials 
-    username: 'root'
-    password: Bini@2004
+    -username: 'root'
+    -password: Bini@2004
+--------------------------------
 
-Student Management System for a Tution Class which consists an admin and a tutor who teaches 3 subjects(combined mathematics,chemistry,Physics)
+Student Management System for a Tution Class which consists an admin and a teacher who teaches 3 subjects(combined mathematics,chemistry,Physics)
+-----------------------------------
+login credentials (user table)
+---------------------------------
+
+admin 
+    username-bini
+    password-123
+taecher 
+    username-kamal
+    password-kamal@123
+    
+---------------------------------
+    
 
 Design Patterns:
-  singleton db connection class - DBcon.java
-  singleton user session managing class-userSession.java
+  -singleton db connection class - DBcon.java
+  -singleton user session managing class-userSession.java
 
 main class - StudentManagementSystem.java
