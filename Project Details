@@ -1,2 +1,20 @@
 Name : Binithi Elvitigala (B V Elvitigala)
 Index : CODSE241F-042
+java version : "22.0.2" 2024-07-16
+jasperreports-7.0.1
+mysql-connector-java 8.0.28
+Apache NetBeans IDE 23
+
+<groupId>com.toedter</groupId>
+<artifactId>jcalendar</artifactId>
+<version>1.4</version>
+
+SQL credentials 
+    username: 'root'
+    password: Bini@2004
+
+Student Management System for a Tution Class which consists an admin and a tutor who teaches 3 subjects(combined mathematics,chemistry,Physics)
+
+Design Patterns:
+  singleton db connection class - DBcon.java
+  singleton user session managing class-userSession.java
